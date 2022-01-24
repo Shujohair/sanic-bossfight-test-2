@@ -1,4 +1,6 @@
 import turtle
+import playsound
+import pysynth
 
 screen = turtle.Screen()
 
